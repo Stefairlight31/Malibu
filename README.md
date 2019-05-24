@@ -3,8 +3,7 @@
 Hello Malibu
 instertion a
 
-insert b
-Seconde phrase
+replacement debug
 
 6 
 et 7 
