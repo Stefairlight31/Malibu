@@ -1,10 +1,10 @@
 # Malibu
 # Malibu
-<<<<<<< HEAD
+
 Buenos Dias
-=======
+
 Hi !
->>>>>>> Branche3
+
 instertion a
 
 replacement debug
